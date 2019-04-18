@@ -1,2 +1,2 @@
 # EDA-of-IPL-Matches
-![Alt text](/path/to/img.jpg)
+![ipl.jpg](C:/Users/amber.a.jain/Documents/Images/)
