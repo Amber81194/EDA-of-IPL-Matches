@@ -1,5 +1,5 @@
 # EDA-of-IPL-Matches
-![image.jpg](Images/ipl.jpg)
+![image.jpg](Images/IPL-Image.jpg)
 
 ## INTRODUCTION
 Every year a lot of companies hire a number of employees. The companies __invest__ time and money in __training__ those employees, not just this but there are __training programs__ within the companies for their existing employees as well. The __aim__ of these programs is to __increase the effectiveness__ of their employees. 
@@ -29,9 +29,9 @@ Every year a lot of companies hire a number of employees. The companies __invest
 ## PROJECT ANALYSIS
 | Description | Analysis |
 | --- | --- |
-| ipl_data.head | ![image.png](images/head.png) |
-| missing value | ![image.png](images/miss.png) |
-| After replacing missing values | ![image.png](images/fillmissingvalue.png) |
+| ipl_data.head | ![image.png](Images/head.png) |
+| missing value | ![image.png](Images/miss.png) |
+| After replacing missing values | ![image.png](Images/fillmissingvalue.png) |
 
 ### FEATURE IMPORTANCE
 ![image.png](images/feature.png)
