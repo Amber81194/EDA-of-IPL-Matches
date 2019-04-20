@@ -2,7 +2,8 @@
 ![image.jpg](Images/IPL-Image.jpg)
 
 ## INTRODUCTION
-The dataset consist of the information about all the matches played between each teams in 11 editions of IPL(2008-2018). Various variables are present in the dataset includes id, season, matches between team(team1 and team2), toss winner, decision(batting, bowling), match results, player of the match, venue(where match is played), umpire 1 , umpire2, umpire3 etc.
+The dataset consist of the information about all the matches played between each teams in 11 editions of IPL(2008-2018). Various variables are present in the dataset includes id, season, teams, toss winner, decision, match results, player of the match, venue, umpire 1 , umpire2, umpire3 etc.
+
 It comprises of 696 observation.
 
 ## DATA
@@ -10,7 +11,7 @@ It comprises of 696 observation.
 | --- | --- |
 | `Id` | Numerical Value |
 | `Season` | Numerical Value |
-| `City` | Cities (where match has played: - 'Hyderabad', 'Pune', 'Rajkot', 'Indore', 'Bangalore', 'Mumbai', 'Kolkata', 'Delhi', 'Chandigarh', 'Kanpur', 'Jaipur', 'Chennai', 'Cape Town', 'Port Elizabeth', 'Durban', 'Centurion', 'East London', 'Johannesburg', 'Kimberley', 'Bloemfontein', 'Ahmedabad', 'Cuttack', 'Nagpur', 'Dharamsala', 'Kochi', 'Visakhapatnam', 'Raipur', 'Ranchi', 'Abu Dhabi', 'Sharjah',' Mohali', 'Bengaluru') |
+| `City` | (Cities where match has played: - 'Hyderabad', 'Pune', 'Rajkot', 'Indore', 'Bangalore', 'Mumbai', 'Kolkata', 'Delhi', 'Chandigarh', 'Kanpur', 'Jaipur', 'Chennai', 'Cape Town', 'Port Elizabeth', 'Durban', 'Centurion', 'East London', 'Johannesburg', 'Kimberley', 'Bloemfontein', 'Ahmedabad', 'Cuttack', 'Nagpur', 'Dharamsala', 'Kochi', 'Visakhapatnam', 'Raipur', 'Ranchi', 'Abu Dhabi', 'Sharjah',' Mohali', 'Bengaluru') |
 | `Date` | DATE (on which date match played) |
 | `Team`| team1 and team2 are two columns between match played|
 | `Toss Winner` | (team name who won the toss) |
