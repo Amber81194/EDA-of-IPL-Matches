@@ -35,6 +35,6 @@ It comprises of 696 observation.
 | After replacing missing values | ![image.png](Images/fillmissingvalue.png) |
 
 ### FEATURE IMPORTANCE
-![image.png](images/performance.png)
+![image.png](Images/performance.png)
 - I saw the performance of each team in 11 IPLs (2008-18) and also finding the best player for each team.
 - I saw the performance of each team on home ground matches and away matches.
