@@ -34,7 +34,12 @@ It comprises of 696 observation.
 | missing value | ![image.png](Images/miss.png) |
 | After replacing missing values | ![image.png](Images/fillmissingvalue.png) |
 
-### FEATURE IMPORTANCE
-![image.png](Images/performance.png)
-- I saw the performance of each team in 11 IPLs (2008-18) and also finding the best player for each team.
-- I saw the performance of each team on home ground matches and away matches.
+### Analysis Result
+- Performance of each team in 11 IPLs (2008-18) and also found the best player for each team.
+- Performance of each team on home ground matches and away matches.
+- Performance of team after winning the toss, if they won the toss what they elected batting or fielding.
+- Performance of team while batting 1st and bowling 1st.
+- Number of matches where decision was taken by DL method
+- Saw the results of match whether it's normal, tie(decision was taken bt super over), no result(Match abandon)
+- Done year wise performance of each team from 2008-2018.
+- Number of teams participated in each year of IPL from 2008-2018.
