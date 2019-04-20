@@ -38,5 +38,3 @@ It comprises of 696 observation.
 ![image.png](images/performance.png)
 - I saw the performance of each team in 11 IPLs (2008-18) and also finding the best player for each team.
 - I saw the performance of each team on home ground matches and away matches.
-
-[Jupyter Notebook](C:/Users/amber.a.jain/PythonCodes/EDA of IPL (2008-2018).ipynb)
