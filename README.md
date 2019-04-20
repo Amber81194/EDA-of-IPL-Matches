@@ -2,9 +2,8 @@
 ![image.jpg](Images/IPL-Image.jpg)
 
 ## INTRODUCTION
-Every year a lot of companies hire a number of employees. The companies __invest__ time and money in __training__ those employees, not just this but there are __training programs__ within the companies for their existing employees as well. The __aim__ of these programs is to __increase the effectiveness__ of their employees. 
-- But where __HR Analytics__ fit in this? 
-- and is it just about __improving__ the performance of employees?
+The dataset consist of the information about all the matches played between each teams in 11 editions of IPL(2008-2018). Various variables are present in the dataset includes id, season, matches between team(team1 and team2), toss winner, decision(batting, bowling), match results, player of the match, venue(where match is played), umpire 1 , umpire2, umpire3 etc.
+It comprises of 696 observation.
 
 ## DATA
 | Column Name | Description |
