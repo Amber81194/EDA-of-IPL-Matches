@@ -29,12 +29,13 @@ It comprises of 696 observation.
 ## PROJECT ANALYSIS
 | Description | Analysis |
 | --- | --- |
-| ipl_data.head | ![image.png](Images/head.png) |
+| ipl_data.head | ![image.png](Images/head1.png) |
+| ipl_data.head | ![image.png](Images/head2.png) |
 | missing value | ![image.png](Images/miss.png) |
 | After replacing missing values | ![image.png](Images/fillmissingvalue.png) |
 
 ### FEATURE IMPORTANCE
-![image.png](images/feature.png)
+![image.png](images/performance.png)
 - I saw the performance of each team in 11 IPLs (2008-18) and also finding the best player for each team.
 - I saw the performance of each team on home ground matches and away matches.
 
